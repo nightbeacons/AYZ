@@ -40,7 +40,9 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection/>
+            <selection>
+                <sel id="591"/>
+            </selection>
         </object>
         <object class="WED_FacadeNode" id="1546" parent_id="1539">
             <sources/>
@@ -3539,7 +3541,6 @@
                 <child id="1051"/>
                 <child id="1052"/>
                 <child id="1053"/>
-                <child id="1054"/>
                 <child id="1055"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Ramp Starts"/>
@@ -6577,14 +6578,6 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="CAP"/>
             <point heading="265.00" latitude="40.709228000" longitude="-73.396294000"/>
-            <ramp_start airlines="" ramp_op_type="None" traffic="63" type="Misc" width="E"/>
-        </object>
-        <object class="WED_RampPosition" id="1054" parent_id="698">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Aircraftsmen Hangar"/>
-            <point heading="330.00" latitude="40.710282490" longitude="-73.396521830"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="63" type="Misc" width="E"/>
         </object>
         <object class="WED_RampPosition" id="1055" parent_id="698">
@@ -10718,16 +10711,16 @@
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="-73.391563"/>
-        <pref name="map/north" value="40.712822"/>
+        <pref name="map/east" value="-73.390310"/>
+        <pref name="map/north" value="40.714164"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="40.704409"/>
+        <pref name="map/south" value="40.703067"/>
         <pref name="map/terraserver_vis" value="1"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-73.399417"/>
+        <pref name="map/west" value="-73.400670"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -10809,8 +10802,8 @@
         <pref name="window/height" value="1391"/>
         <pref name="window/main_split" value="290"/>
         <pref name="window/main_split2" value="1347"/>
-        <pref name="window/prev_split" value="627"/>
-        <pref name="window/prop_split" value="141"/>
+        <pref name="window/prev_split" value="637"/>
+        <pref name="window/prop_split" value="415"/>
         <pref name="window/width" value="2560"/>
         <pref name="window/x_loc" value="51"/>
         <pref name="window/y_loc" value="1436"/>
