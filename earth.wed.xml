@@ -41,7 +41,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="591"/>
+                <sel id="5"/>
             </selection>
         </object>
         <object class="WED_FacadeNode" id="1546" parent_id="1539">
@@ -144,11 +144,11 @@
                 <child id="276"/>
                 <child id="678"/>
                 <child id="680"/>
+                <child id="591"/>
                 <child id="288"/>
                 <child id="675"/>
                 <child id="677"/>
                 <child id="290"/>
-                <child id="591"/>
                 <child id="592"/>
                 <child id="292"/>
                 <child id="295"/>
@@ -158,7 +158,11 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Zahns Airport"/>
             <airport always_flatten="0" drive_on_left="0" elevation="16.5" has_atc="0" icao="AYZ" kind="Airport" scenery_id="-1"/>
-            <meta_data/>
+            <meta_data>
+                <meta_data_entry pair="city,North Amityville"/>
+                <meta_data_entry pair="country,USA"/>
+                <meta_data_entry pair="state,NY"/>
+            </meta_data>
         </object>
         <object class="WED_FacadeNode" id="1549" parent_id="1539">
             <sources/>
@@ -10711,16 +10715,16 @@
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="-73.390310"/>
-        <pref name="map/north" value="40.714164"/>
+        <pref name="map/east" value="-73.389508"/>
+        <pref name="map/north" value="40.720366"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="40.703067"/>
+        <pref name="map/south" value="40.699143"/>
         <pref name="map/terraserver_vis" value="1"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-73.400670"/>
+        <pref name="map/west" value="-73.409322"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -10802,10 +10806,10 @@
         <pref name="window/height" value="1391"/>
         <pref name="window/main_split" value="290"/>
         <pref name="window/main_split2" value="1347"/>
-        <pref name="window/prev_split" value="637"/>
-        <pref name="window/prop_split" value="415"/>
+        <pref name="window/prev_split" value="667"/>
+        <pref name="window/prop_split" value="445"/>
         <pref name="window/width" value="2560"/>
-        <pref name="window/x_loc" value="51"/>
+        <pref name="window/x_loc" value="50"/>
         <pref name="window/y_loc" value="1436"/>
     </prefs>
 </doc>
